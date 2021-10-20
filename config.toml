@@ -157,8 +157,8 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
         absoluteURL = false
         [languages.en.params.search.algolia]
           index = "index.en"
-          appID = "UAL0NNJWXE"
-          searchKey = "7b7fbdfb7ee82ee61901f2c6b09b05be"
+          appID = "6JV054LKI9"
+          searchKey = "26a340af92863483e0090902be77a9ba"
 
       # About page config
       [languages.en.params.about]
@@ -427,14 +427,14 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
     # 文章页面的分享信息设置
     [params.page.share]
       enable = false
-      Twitter = false
+      Twitter = true
       Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = true
       Tumblr = false
-      HackerNews = false
-      Reddit = false
+      HackerNews = true
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
@@ -454,6 +454,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
       Skype = false
       Trello = false
       Mix = false
+      Instagram = true
     # Comment config
     # 评论系统设置
     [params.page.comment]
@@ -461,7 +462,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = "UpTech"
