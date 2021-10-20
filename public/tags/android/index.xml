@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Android - Tag - UpTech</title>
+        <link>https://www.uptech.cf/tags/android/</link>
+        <description>Android - Tag - UpTech</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Oct 2021 00:48:32 &#43;0200</lastBuildDate><atom:link href="https://www.uptech.cf/tags/android/" rel="self" type="application/rss+xml" /><item>
+    <title>What Is Termux How to Install It and First Steps After Instalation</title>
+    <link>https://www.uptech.cf/what-is-termux-how-to-install-it-and-first-steps-after-instalation/</link>
+    <pubDate>Wed, 20 Oct 2021 00:48:32 &#43;0200</pubDate><guid>https://www.uptech.cf/what-is-termux-how-to-install-it-and-first-steps-after-instalation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/what-is-termux/img/termux.jpg" referrerpolicy="no-referrer">
+            </div>Introduction To Termux TERMUX is a terminal emulator for Android system. It means that you can access to the system on your phone through a terminal like on Linux, Windows or macOS. Since Android is built on Linux, Termux use Unix-like commands.
+Unfortunately app is not available for iphone.
+Those who use Linux and macOS will be familiar with commands.
+For those who use Windows will be little unfamiliar since CMD ( Command Prompt ) use different commands.]]></description>
+</item>
+<item>
+    <title>How to Customize Termux</title>
+    <link>https://www.uptech.cf/how-to-customize-termux/</link>
+    <pubDate>Tue, 19 Oct 2021 23:23:56 &#43;0200</pubDate><guid>https://www.uptech.cf/how-to-customize-termux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/how-to-customize/img/customize.jpg" referrerpolicy="no-referrer">
+            </div>Removing Termux Welcome Screen Text We will start with removing termux welcome screen text.
+Type:
+1  cd ..   To change directory.
+1  ls   To list directory.
+1  cd usr/etc   Change directory to etc
+1  ls   List directory.
+1  rm -rf motd   Remove file named motd.
+When you start new window you will see that there is no more welcome text and termux start with clean window.]]></description>
+</item>
+</channel>
+</rss>
