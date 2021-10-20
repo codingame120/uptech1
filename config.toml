@@ -96,13 +96,29 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
         title = ""
         weight = 3
       [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = ""
+        identifier = "Instagram"
+        pre = "<i class='fab fa-instagram fa-fw'></i>"
         post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
+        name = ""
+        url = "https://www.instagram.com/uptechinsta"
         title = ""
-        weight = 4
+        weight = 5
+      [[languages.en.menu.main]]
+        identifier = "Twitter"
+        pre = "<i class='fab fa-twitter fa-fw'></i>"
+        post = ""
+        name = ""
+        url = "https://twitter.com/UpTech11"
+        title = ""
+        weight = 5  
+      [[languages.en.menu.main]]
+        identifier = "Pinterest"
+        pre = "<i class='fab fa-pinterest fa-fw'></i>"
+        post = ""
+        name = ""
+        url = "https://www.pinterest.com/UpTech_"
+        title = ""
+        weight = 5    
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -110,7 +126,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
         name = "About"
         url = "/about/"
         title = ""
-        weight = 5
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "youtube"
         pre = "<i class='fab fa-youtube fa-fw'></i>"
@@ -156,7 +172,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
         # whether to use the absolute URL based on the baseURL in search index
         absoluteURL = false
         [languages.en.params.search.algolia]
-          index = "index.en"
+          index = "uptech"
           appID = "6JV054LKI9"
           searchKey = "26a340af92863483e0090902be77a9ba"
 
@@ -356,7 +372,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
     # 是否显示原始 Markdown 文档内容的链接
     linkToMarkdown = false
     # whether to show link to improve the article
-    # improveArticle = ""
+    improveArticle = false
     # whether to show the full text content in RSS
     # 是否在 RSS 中显示全文内容
     rssFullText = false
@@ -426,7 +442,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
     # Social share links in post page
     # 文章页面的分享信息设置
     [params.page.share]
-      enable = false
+      enable = true
       Twitter = true
       Facebook = false
       Linkedin = false
@@ -454,7 +470,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
       Skype = false
       Trello = false
       Mix = false
-      Instagram = true
+
     # Comment config
     # 评论系统设置
     [params.page.comment]
@@ -575,19 +591,19 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
   [params.social]
     GitHub = ""
     Linkedin = ""
-    Twitter = ""
-    Instagram = ""
+    Twitter = "@UpTech11"
+    Instagram = "uptechinsta"
     Facebook = ""
     Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = ""
+    Youtubechannel = "UC_dmpw5SOlJSxnvk-KW0Jcg"
     Tumblr = ""
     Quora = ""
     Keybase = ""
-    Pinterest = ""
+    Pinterest = "UpTech_"
     Reddit = ""
     Codepen = ""
     FreeCodeCamp = ""
