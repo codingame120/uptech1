@@ -97,19 +97,3 @@ Now when you have set up Termux on your phone. You can start to explore play lea
 
 If you have any questions about Termux or suggestions, fell free to tell us in comments.
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-

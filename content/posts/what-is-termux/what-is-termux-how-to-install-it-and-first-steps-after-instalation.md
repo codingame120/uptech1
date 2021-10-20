@@ -123,19 +123,3 @@ Which can be done in two ways.
 Now when you have set up Termux on your phone. You can start to explore play learn various different things with this interesting useful and very powerful app.
 
 If you have any questions about Termux or suggestions, fell free to tell us in comments.
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>

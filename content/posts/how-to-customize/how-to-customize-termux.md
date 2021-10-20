@@ -136,19 +136,3 @@ If you have any questions or suggestions feel free to say us in comments.
 You can watch and video example:
 
 {{< youtube sfk8rEVRrC4 >}}
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>

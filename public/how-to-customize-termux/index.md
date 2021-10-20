@@ -123,19 +123,3 @@ You can watch and video example:
 
 {{< youtube sfk8rEVRrC4 >}}
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-

@@ -112,19 +112,3 @@ You can download Tor here: [Download Tor](https://www.torproject.org/download/)
 <br/>
 
 {{< youtube a7sqonzJyHQ >}}
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>

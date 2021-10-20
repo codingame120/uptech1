@@ -60,19 +60,3 @@ You can watch and video example:
 
 {{< youtube 2laQXniX2oY >}}
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-

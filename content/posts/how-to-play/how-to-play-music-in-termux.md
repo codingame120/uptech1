@@ -80,19 +80,3 @@ It is simple as that, now you can play music and audio files on your phone using
 You can watch and video example:
 
 {{< youtube 2laQXniX2oY >}}
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
