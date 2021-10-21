@@ -6,7 +6,7 @@ draft: false
 description: "All about how to play music in termux,info,pictures,video and more,android,phone,music,termux.."
 
 tags: ["Termux", "phone", "Music", "Audio"]
-categories: ["How To"]
+categories: ["Termux"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

@@ -12,7 +12,7 @@ tags:
   - Android
 
 categories:
-  - How To
+  - Termux
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

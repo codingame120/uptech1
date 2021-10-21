@@ -9,7 +9,7 @@ featuredImage: "/posts/how-to-customize/img/customize.jpg"
 featuredImagePreview: "posts/how-to-customize/img/customize.jpg"
 
 categories:
-  - How To
+  - Termux
 tags:
   - Termux
   - Android
