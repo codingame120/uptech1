@@ -174,4 +174,6 @@ And if you have new hardware and enjoy being on the cutting edge of new software
 However, at the time of writing, Windows 11 has issues with AMD chips, and computers with AMD processors suffer slowdowns and poor performance when compared to PCs with Intel processors.
 As a result, just like with other windows versions, it is safest to wait a bit longer until the majority of issues are resolved.
 
+<br/>
+
 What are your thoughts on the new Windows 11? Do you appreciate the new design and features in general? Tell us in the comments.
