@@ -172,9 +172,8 @@ Assume you're planning something and have a number of applications or webpages o
 Overall, the new Windows 11 operating system is a fantastic operating system with several aesthetic and performance enhancements.
 And if you have new hardware and enjoy being on the cutting edge of new software, you should certainly go ahead and update.
 However, at the time of writing, Windows 11 has issues with AMD chips, and computers with AMD processors suffer slowdowns and poor performance when compared to PCs with Intel processors.
-As a result, just like with other windows versions, it is safest to wait a bit longer until the majority of issues are resolved.
-
-Windows 10 will continue to get updates until 2025. Alternatively, if you enjoy experimenting with new things, you may try one of the numerous Linux distributions.
+As a result, just like with other windows versions, it is safest to wait a bit longer until the majority of issues are resolved, Windows 10 will continue to get updates until 2025.  
+Alternatively, if you enjoy experimenting with new things, you may try one of the numerous Linux distributions.
 
 <br/>
 
