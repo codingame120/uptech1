@@ -11,7 +11,7 @@ theme = "FeelIt"
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-  gitRepo = "https://github.com/khusika/FeelIt"
+  gitRepo = ""
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
@@ -65,7 +65,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
     # default amount of posts in each pages
     paginate = 12
     # copyright description used only for seo schema
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    copyright = ""
     # Menu config
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -179,38 +179,38 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
       # About page config
       [languages.en.params.about]
         # whether to enable profile on about page
-        # depends on .Site.Params.home.profile.enable
+        #depends on .Site.Params.home.profile.enable]]
         enable = true
         # whether to enable param layout
         param = true
         # title for param layout
-        paramTitle = "Personal Information"
+        paramTitle = "Blog Information"
         # general description of your site
         # can be write with markdown style
-        description = "[FeelIt](https://github.com/khusika/FeelIt) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by [Khusika](https://khusika.com). It is based on the original [LoveIt Theme](https://github.com/dillonzq/LoveIt), [LeaveIt Theme](https://github.com/liuzc/LeaveIt), and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt)."
+        description = "If you enjoy technology and are a professional or a tech enthusiast, you have come to the right place. <br/> This blog is about hardware, software, and everything that those two bring together and keep in the middle. <br/> The social aspect is important because, after all, we are humans...still. <br/> As a result, the author of this blog has a special affinity for free and open source ideas. <br/> He believes that freedom of expression and the right to privacy are the most important human rights. <br/> However, he understands the time-in-coordination system of confusion and has a professional respect for all technological innovations, for which he believes everything has a place and a purpose.<br/> He believes that community activism has an impact and can lead to a better future for society."
         # description of your status
         [[languages.en.params.about.status]]
           faIcon = "fas fa-building"
-          title = "Company"
-          desc = "FeelIt"
+          title = "Blog"
+          desc = "UpTech"
         [[languages.en.params.about.status]]
           faIcon = "fas fa-briefcase fa-fw"
-          title = "Occupation"
-          desc = "Freelancer"
+          title = "About"
+          desc = "Tech"
         [[languages.en.params.about.status]]
           title = "Location"
           faIcon = "fas fa-map-marker-alt"
           desc = "Earth"
         # description of your parameter
         [[languages.en.params.about.parameter]]
-          language = "UI/UX"
+          language = "Hardwer"
           level = "80"
         [[languages.en.params.about.parameter]]
-          language = "HTML"
-          level = "70"
+          language = "Softwer"
+          level = "90"
         [[languages.en.params.about.parameter]]
-          language = "Go"
-          level = "60"
+          language = "Improvement"
+          level = "100"
 
       # Home page config
       [languages.en.params.home]
