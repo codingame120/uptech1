@@ -5,7 +5,9 @@ draft: false
 
 author: ""
 authorLink: ""
-description: "All about termux,how to install termux,what to do after installing termux."
+description: "Everything you need to know about termux, including how to install it and what to do afterward.
+TERMUX is an Android-based terminal emulator.
+It means you can use a terminal on your phone to connect to the system, just like you can on Linux, Windows, or macOS."
 
 tags:
   - Termux

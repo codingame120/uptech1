@@ -3,9 +3,9 @@ title: "Everything You Need to Know About Windows 11"
 date: 2021-10-21T21:33:46+02:00
 draft: false
 
-author: "UpTech"
+author: ""
 authorLink: ""
-description: "All what you need to know about new windows 11.New fuetures."
+description: "A new operating system has been introduced by Microsoft. Take a look at the latest additions. What are the current level of performance.What are improwed. What makes it different from Windows 10 and whether it's worth upgrading, now."
 
 categories:
   - Windows

@@ -5,13 +5,7 @@ draft: false
 
 author: ""
 authorLink: ""
-description: " If you enjoy technology and are a professional or a tech enthusiast, you have come to the right place. 
-This blog is about hardware, software, and everything that those two bring together and keep in the middle. 
-The social aspect is important because, after all, we are humans...still. 
-As a result, the author of this blog has a special affinity for free and open source ideas. 
-He believes that freedom of expression and the right to privacy are the most important human rights. 
-However, he understands the time-in-coordination system of confusion and has a professional respect for all technological innovations, for which he believes everything has a place and a purpose. 
-He believes that community activism has an impact and can lead to a better future for society. "
+description: "UpTech is a site dedicated to technology advice and lessons.We are interested in computer technology and all things linked to it.We will provide you with high-quality content on a wide range of themes and computer technology."
 
 tags:
 

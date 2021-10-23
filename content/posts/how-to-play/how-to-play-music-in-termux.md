@@ -3,7 +3,7 @@ title: "How to Play Music in Termux"
 date: 2021-10-20T00:29:38+02:00
 draft: false
 
-description: "All about how to play music in termux,info,pictures,video and more,android,phone,music,termux.."
+description: "If you want to learn how to play music and other audio files on your phone with TERMUX, you are on the right place."
 
 tags: ["Termux", "phone", "Music", "Audio"]
 categories: ["Termux"]

@@ -2,7 +2,7 @@
 title: "How to Customize Termux"
 date: 2021-10-19T23:23:56+02:00
 draft: false
-description: "How to customize termux,change color schemes and fonts.description."
+description: "How to customize termux,change color schemes and fonts."
 toc: true
 
 featuredImage: "/posts/how-to-customize/img/customize.jpg"

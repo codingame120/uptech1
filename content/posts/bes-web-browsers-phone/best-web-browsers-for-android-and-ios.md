@@ -2,7 +2,7 @@
 title: "Top 8 Web Browsers for Android and IOS That Are Most Secure And Private"
 date: 2021-10-19T22:09:26+02:00
 draft: false
-description: "Best web browsers for security and privacy for smartphones,android,ios.Search web safely.Mozila.Tor.Firefox Focus.Brave.Bromite.DuckDuckGo.Orbot.Onion Browser."
+description: "Find out which are the best web applications for android and iPhones to surf the web securely and privately."
 toc: true
 featuredpost: true
 featuredImage: "/posts/bes-web-browsers-phone/img/phone-post-min.jpg"

@@ -2,8 +2,8 @@
 title: "Top 3 Web Browsers For Desktop That Are The Most Secure And Private
 "
 date: 2021-10-19T02:26:54+02:00
-authorImage: "/images/logo.png"
-description: "All about internet and web security, browsers.Photo, information,downloads.Desktop." 
+
+description: "What are the best web browsers for desktop environment in terms of privacy and security for Mac and Windows." 
 toc: true
 featuredpost: true
 featuredImage: "/posts/best-browsers-desktop/sc.jpg"
