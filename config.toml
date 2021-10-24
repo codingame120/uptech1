@@ -696,7 +696,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
   # Analytics config
   # 网站分析配置
   [params.analytics]
-    enable = true
+    enable = false
     # Fathom Analytics
     [params.analytics.fathom]
       id = ""
@@ -706,7 +706,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
     # GoatCounter Analytics
     [params.analytics.goatcounter]
       # GoatCounter code
-      code = "https://uptech.goatcounter.com/count"
+      code = ""
 
   # Cookie consent config
   # Cookie 许可配置
