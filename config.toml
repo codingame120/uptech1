@@ -696,7 +696,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
   # Analytics config
   # 网站分析配置
   [params.analytics]
-    enable = false
+    enable = true
     # Fathom Analytics
     [params.analytics.fathom]
       id = ""
