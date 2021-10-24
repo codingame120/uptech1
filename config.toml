@@ -49,7 +49,7 @@ enableGitInfo = true
 # 是否使用 emoji 代码
 enableEmoji = true
 # UA-PROPERTY_ID or G-MEASUREMENT_ID google analytics code
-googleAnalytics = "G-6PBSN5S8DJ"
+googleAnalytics = ""
 
 ignoreErrors = ["err-missing-comment-accesstoken"]
 
@@ -456,7 +456,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
       Xing = false
       Line = false
       Instapaper = false
-      Pocket = false
+      Pocket = true
       Digg = false
       Stumbleupon = false
       Flipboard = false
@@ -706,7 +706,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
     # GoatCounter Analytics
     [params.analytics.goatcounter]
       # GoatCounter code
-      code = ""
+      code = "https://uptech.goatcounter.com/count"
 
   # Cookie consent config
   # Cookie 许可配置
