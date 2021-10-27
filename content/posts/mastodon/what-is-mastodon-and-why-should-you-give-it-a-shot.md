@@ -118,7 +118,7 @@ Here are the links for each of the cases:
 [Download Mastodon For iOS on App Store](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974)  
 [<img src="/posts/bes-web-browsers-phone/img/App Store-min.png">](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974)
 
-Or You Can To [Join Mastodon On Official Website](https://joinmastodon.org/)
+Or You Can [Join Mastodon On Official Website](https://joinmastodon.org/)
 
 <br/>
 <br/>
