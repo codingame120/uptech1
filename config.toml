@@ -654,9 +654,9 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
     Resume = "" #goo.gl id
     xda = ""
     RSS = true
-    #[params.social.Mastodon]
-      id = ""
-      prefix = ""
+    [params.social.Mastodon]
+      id = "@UpTech_"
+      prefix = "https://mstdn.social/web/"
 
   # TypeIt config
   # TypeIt 配置

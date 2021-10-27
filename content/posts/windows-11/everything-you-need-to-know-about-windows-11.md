@@ -178,3 +178,18 @@ Alternatively, if you enjoy experimenting with new things, you may try one of th
 <br/>
 
 What are your thoughts on the new Windows 11? Do you appreciate the new design and features in general? Tell us in the comments.
+
+<br/>
+<br/>
+
+## Watch Video
+
+<br/>
+
+You can watch review on our YouTube chanel:
+
+<br/>
+
+{{< youtube 3l4iEsVNPxU >}}
+
+<br/>
