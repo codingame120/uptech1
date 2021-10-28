@@ -12,7 +12,7 @@ featuredImagePreview: "/posts/best-browsers-desktop/sc.jpg"
 tags: ["Web Browsers", "Desktop"]
 categories: ["Web Security"]
 
-lightgallery: true
+lightgallery: false
 ---
 
 <br/>
@@ -38,7 +38,7 @@ So in the next part of the article, We'll show you which are the safest web brow
 
 <br/>
 
-### Brave
+## Brave
 
 Brave is a fast modern good-looking browser, based on Chromium engine.
 Don't confuse you Chromium to connect it with Chrome.
@@ -60,7 +60,7 @@ him you can download here: [Download Brave](https://brave.com/download/)
 
 <br/>
 
-### Mozila Firefox
+## Mozila Firefox
 
 Mozilla Firefox, or Firefox is a free and open source web browser from Mozilla Foundation.
 Firefox uses Gecko engine to render web pages. Which implement current web standards and its fast and reliable.
@@ -81,7 +81,7 @@ You can download Firefox here: [Download Firefox](https://www.mozilla.org/en-US/
 
 <br/>
 
-### Tor
+## Tor
 
 Tor web browser is also free and open source. The core principle of TOR is developed by United States Naval Research. By mathematician Paul Syverson, and computer scientists Michael G. Reed and David Goldschlag,Who was develop "onion routing".
 To protect US intelligence communication online. The alpha version of Tor, developed by Syverson and computer scientists Roger Dingledine and Nick Mathewson and then called The Onion Routing project (which later simply became "Tor", as an acronym for the former name),

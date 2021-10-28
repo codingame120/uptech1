@@ -1,5 +1,5 @@
 ---
-title: "Can Smartphones Get Viruses ?"
+title: "Can Smartphones Get Viruses?"
 date: 2021-10-27T23:59:17+02:00
 draft: false
 
