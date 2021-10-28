@@ -18,7 +18,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 featuredImage: "/posts/mastodon/img/mastodon.webp"
-featuredImagePreview: ""
+featuredImagePreview: "/posts/mastodon/img/mastodon.webp"
 
 toc:
   enable: true

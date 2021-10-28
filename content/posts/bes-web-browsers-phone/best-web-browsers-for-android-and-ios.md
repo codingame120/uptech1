@@ -13,6 +13,8 @@ categories:
 tags:
   - Web Browsers
   - Smartphones
+
+lightgallery: true
 ---
 
 ## Introduction
