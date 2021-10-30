@@ -6,7 +6,7 @@ description: "How to customize termux,change color schemes and fonts."
 toc: true
 
 featuredImage: "/posts/how-to-customize/img/customize.jpg"
-featuredImagePreview: "posts/how-to-customize/img/customize.jpg"
+featuredImagePreview: "/posts/how-to-customize/img/customize.jpg"
 
 categories:
   - Termux
