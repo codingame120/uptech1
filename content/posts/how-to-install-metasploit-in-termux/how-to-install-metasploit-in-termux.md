@@ -18,8 +18,8 @@ categories:
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "/posts/how-to-install-metasploit-in-termux/metasploit.webp"
-featuredImagePreview: "/posts/how-to-install-metasploit-in-termux/metasploit.webp"
+featuredImage: "/posts/how-to-install-metasploit-in-termux/img/metasploit.webp"
+featuredImagePreview: "/posts/how-to-install-metasploit-in-termux/img/metasploit.webp"
 
 toc:
   enable: true
