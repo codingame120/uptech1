@@ -9,6 +9,7 @@ description: "Facebook will be renamed as Meta on December 1, 2022. What is the 
 
 tags:
   - Facebook
+  - Tech News
 
 categories:
   - Social Media
