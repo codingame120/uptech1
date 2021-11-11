@@ -136,17 +136,20 @@ The following is a list of some popular ones:
 - CentOS is a community-driven distribution of the Linux operating system that was started by Red Hat and now has become quite popular with the open source
   community.  
   CentOS is available in three versions, Enterprise Server (the most
-  popular), Advanced Server and Workstation.
+  popular), Advanced Server and Workstation.  
+  [_Download CentOS_](https://www.centos.org/download/)
 
 **Ubuntu**
 
 - Ubuntu is a Debian-based distribution of Linux that uses GNOME as its default desktop environment.  
-  It has a large community of users and developers. Ubuntu’s most popular versions are the desktop-oriented Kubuntu, the server-oriented Xubuntu, and the minimalistic phone-based Ubuntugnome.
+  It has a large community of users and developers. Ubuntu’s most popular versions are the desktop-oriented Kubuntu, the server-oriented Xubuntu, and the minimalistic phone-based Ubuntugnome.  
+  [_Download Ubuntu_](https://ubuntu.com/download)
 
 **Linux Mint**
 
 - Linux Mint is community-supported free Linux distribution aimed at new Linux users. Linux Mint is based on Ubuntu but provides a simple, intuitive graphical interface and uses the traditional Mint-branded desktop environment.
-The interface is suitable for users who are used to working in a Windows environment.
+The interface is suitable for users who are used to working in a Windows environment.  
+[_Download Linux Mint_](https://linuxmint.com/download.php)
 
   <br/>
 
