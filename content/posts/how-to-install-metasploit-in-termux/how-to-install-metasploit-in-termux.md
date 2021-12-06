@@ -11,6 +11,7 @@ tags:
   - Termux
   - Android
   - Metasploit
+  - Hacking
 
 categories:
   - Termux
