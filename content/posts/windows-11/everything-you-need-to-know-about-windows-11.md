@@ -102,8 +102,7 @@ The UI in this new version has rounded edges and a foundation layer that uses th
 
 ![Android App In Windows 11 Photo](/posts/windows-11/img/w5.webp "Android App In Windows 11 Photo")
 
-Installing apps is a simple procedure. Because Microsoft has partnered with Amazon, the Microsoft Store will list applications but will link you to the Amazon Appstore app to install or update them. This also installs a Windows Subsystem for Android in the background, which is the core technology that allows Android apps to operate on Windows 11.
-Apps run in a virtual machine, where they are separated within their own environment but may coexist with other Windows apps. Android applications may be pinned to the Start menu or taskbar and use all of Windows 11's windowing and multitasking features, just like any other desktop software.
+App installation is a straightforward process. Due to Microsoft's partnership with Amazon, the Microsoft Store will feature programs but will direct you to the Amazon Appstore app to install or update them. This also installs in the background a Windows Subsystem for Android, which is the essential technology that allows Android apps to run on Windows 11. Apps run in a virtual machine, where they are isolated within their own environment but may coexist with other Windows applications. Android applications, like any other desktop program, may be pinned to the Start menu or taskbar and use all of Windows 11's windowing and multitasking capabilities.
 
 <br/>
 <br/>
