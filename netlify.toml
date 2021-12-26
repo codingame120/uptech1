@@ -1,0 +1,6 @@
+# netlify setup file
+
+
+[build]
+
+   publish = "public"
