@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Metasploit - Tag - UpTech</title>
+        <link>https://www.uptech.cf/tags/metasploit/</link>
+        <description>Metasploit - Tag - UpTech</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Nov 2021 00:12:14 &#43;0100</lastBuildDate><atom:link href="https://www.uptech.cf/tags/metasploit/" rel="self" type="application/rss+xml" /><item>
+    <title>How to Install Metasploit in Termux?</title>
+    <link>https://www.uptech.cf/how-to-install-metasploit-in-termux/</link>
+    <pubDate>Mon, 01 Nov 2021 00:12:14 &#43;0100</pubDate><guid>https://www.uptech.cf/how-to-install-metasploit-in-termux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/how-to-install-metasploit-in-termux/img/metasploit.webp" referrerpolicy="no-referrer">
+            </div>What Is Metasploit  Metasploit is a free, open-source penetration testing framework. It is designed for use against a single computer or network, in contrast to other penetration testing tools such as nikto and cain and abel that target a network of computers. This is done to reduce the time spent in scanning for a network, increasing the speed at which exploits can be found.
+The metasploit framework contains pre-configured plugins and exploits, although the user can also write their own.]]></description>
+</item>
+</channel>
+</rss>

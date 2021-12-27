@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Linux - Category - UpTech</title>
+        <link>https://www.uptech.cf/categories/linux/</link>
+        <description>Linux - Category - UpTech</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 11 Nov 2021 13:59:25 &#43;0100</lastBuildDate><atom:link href="https://www.uptech.cf/categories/linux/" rel="self" type="application/rss+xml" /><item>
+    <title>What Are the Benefits of Linux?</title>
+    <link>https://www.uptech.cf/what-are-the-benefits-of-linux/</link>
+    <pubDate>Thu, 11 Nov 2021 13:59:25 &#43;0100</pubDate><guid>https://www.uptech.cf/what-are-the-benefits-of-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/what-are-the-benefits-of-linux/img/li.webp" referrerpolicy="no-referrer">
+            </div>What Exactly is Linux? Linux is a UNIX-like operating system which is completely free, open source and community supported.
+Linux is the most popular open source operating system that is the foundation of most of the Internet.
+Linux powers most of the web.
+Linux powers the servers that provide the infrastructure to the entire Internet.
+Linux powers the mobile phones and tablets.
+The linux operating system was created in 1991 by Linus Torvalds.]]></description>
+</item>
+</channel>
+</rss>

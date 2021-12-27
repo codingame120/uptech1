@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Audio - Tag - UpTech</title>
+        <link>https://www.uptech.cf/tags/audio/</link>
+        <description>Audio - Tag - UpTech</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 20 Oct 2021 00:29:38 &#43;0200</lastBuildDate><atom:link href="https://www.uptech.cf/tags/audio/" rel="self" type="application/rss+xml" /><item>
+    <title>How to Play Music in Termux</title>
+    <link>https://www.uptech.cf/how-to-play-music-in-termux/</link>
+    <pubDate>Wed, 20 Oct 2021 00:29:38 &#43;0200</pubDate><guid>https://www.uptech.cf/how-to-play-music-in-termux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/how-to-play/img/play.jpg" referrerpolicy="no-referrer">
+            </div>Introduction Why would you want to play audio files and music in termux terminal on your phone? Well if nothing else then because is fun&hellip;  There are more ways ( Programs for play music and audio files in termux ). In this article, we will look for one who calls play-audio.
+ First as good practice we need to run:
+1  pkg update &amp;&amp; pkg upgrade   commands to update and upgrade our repositories.]]></description>
+</item>
+</channel>
+</rss>

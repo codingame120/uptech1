@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hacking - Tag - UpTech</title>
+        <link>https://www.uptech.cf/tags/hacking/</link>
+        <description>Hacking - Tag - UpTech</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 06 Dec 2021 15:52:11 &#43;0100</lastBuildDate><atom:link href="https://www.uptech.cf/tags/hacking/" rel="self" type="application/rss+xml" /><item>
+    <title>How to Install Tool-X in Termux</title>
+    <link>https://www.uptech.cf/how-to-install-tool-x-in-termux/</link>
+    <pubDate>Mon, 06 Dec 2021 15:52:11 &#43;0100</pubDate><guid>https://www.uptech.cf/how-to-install-tool-x-in-termux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/how-to-install-tool-x-in-termux/img/toolx.webp" referrerpolicy="no-referrer">
+            </div>Did you realize you can transform your smartphone into a true hacking machine? All of this can be accomplished with the assistance of Termux and Tool-X. If you already have termux installed on your phone, you may install all tools with a single click. If you do not have it, you can read how here What Is Termux How to Install It and First Steps After Instalation.
+ What exactly is Tool-X?]]></description>
+</item>
+<item>
+    <title>How to Install Metasploit in Termux?</title>
+    <link>https://www.uptech.cf/how-to-install-metasploit-in-termux/</link>
+    <pubDate>Mon, 01 Nov 2021 00:12:14 &#43;0100</pubDate><guid>https://www.uptech.cf/how-to-install-metasploit-in-termux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/how-to-install-metasploit-in-termux/img/metasploit.webp" referrerpolicy="no-referrer">
+            </div>What Is Metasploit  Metasploit is a free, open-source penetration testing framework. It is designed for use against a single computer or network, in contrast to other penetration testing tools such as nikto and cain and abel that target a network of computers. This is done to reduce the time spent in scanning for a network, increasing the speed at which exploits can be found.
+The metasploit framework contains pre-configured plugins and exploits, although the user can also write their own.]]></description>
+</item>
+</channel>
+</rss>
