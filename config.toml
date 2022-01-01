@@ -298,7 +298,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
     author = true
     # site creation time
     # 网站创立年份
-    since = 2021
+    since = 2022
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     # icp = ""
