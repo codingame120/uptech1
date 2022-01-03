@@ -49,7 +49,7 @@ enableGitInfo = true
 # 是否使用 emoji 代码
 enableEmoji = true
 # UA-PROPERTY_ID or G-MEASUREMENT_ID google analytics code
-googleAnalytics = "G-6PBSN5S8DJ"
+googleAnalytics = ""
 
 ignoreErrors = ["err-missing-comment-accesstoken"]
 
@@ -696,7 +696,7 @@ ignoreErrors = ["err-missing-comment-accesstoken"]
   # Analytics config
   # 网站分析配置
   [params.analytics]
-    enable = true
+    enable = false
     # Fathom Analytics
     [params.analytics.fathom]
       id = ""
