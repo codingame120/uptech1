@@ -48,6 +48,17 @@ There are paid versions, but this blog prefers free and open source, especially 
 
 I'll show you six of the best free applications for watching YouTube videos on Android and iOS.
 
+
+### Apps List
+
+1. [**_NewPipe_**](#newpipe)
+2. [**_TubeMate_**](#tubemate)
+3. [**_SnapTube_**](#snaptube)
+4. [**_MyTube_**](#mytube)
+5. [**_NetTube_**](#nettube)
+6. [**_Tubex_**](#tubex)
+
+
 <br/>
 
 ## NewPipe
