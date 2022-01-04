@@ -49,7 +49,7 @@ enableGitInfo = true
 # 是否使用 emoji 代码
 enableEmoji = true
 # UA-PROPERTY_ID or G-MEASUREMENT_ID google analytics code
-googleAnalytics = "G-LPYLEXZWXV"
+googleAnalytics = ""
 
 ignoreErrors = ["err-missing-comment-accesstoken"]
 
