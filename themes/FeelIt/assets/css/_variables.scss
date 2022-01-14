@@ -13,13 +13,13 @@ $global-line-height: 1.5rem;
 
 // Color of the background
 $global-background-color: #f2f2f2 !default;
-$global-background-color-dark: #2d1154 !default;
+$global-background-color-dark: #1e2028 !default;
 $global-background-card-color: #fff !default;
-$global-background-card-color-dark: #54209d !default;
+$global-background-card-color-dark: #242731 !default;
 
 // Color of the text
 $global-font-color: #161209 !default;
-$global-font-color-dark: #fffade !default;
+$global-font-color-dark: #eff2f5 !default;
 
 // Color of the secondary text
 $global-font-secondary-color: #635f56 !default;
@@ -46,10 +46,10 @@ $avatar-border-color-dark: rgba(242, 242, 242, 0) !default;
 
 // ========== Scrollbar ========== //
 // Color of the scrollbar
-$scrollbar-color: #43197e !default;
+$scrollbar-color: #242731 !default;
 
 // Color of the hover scrollbar
-$scrollbar-hover-color: #54209d !default;
+$scrollbar-hover-color: #1a1c23 !default;
 // ========== Scrollbar ========== //
 
 // ========== Selection ========== //
@@ -64,7 +64,7 @@ $header-height: 3.5rem !default;
 
 // Color of the header background
 $header-background-color: #f8f8f8 !default;
-$header-background-color-dark: #43197e !default;
+$header-background-color-dark: #1a1c23 !default;
 
 // Font style of the header title
 $header-title-font-family: $global-font-family !default;
@@ -76,7 +76,7 @@ $header-hover-color-dark: #1ecbe1 !default;
 
 // Color of the search background
 $search-background-color: #e9e9e9 !default;
-$search-background-color-dark: #2d1154 !default;
+$search-background-color-dark: #242731 !default;
 // ========== Header ========== //
 
 // ========== Single Content ========== //
@@ -94,15 +94,15 @@ $single-link-hover-color-dark: white !default;
 
 // Color of the table background
 $table-background-color: #fff !default;
-$table-background-color-dark: #43197e !default;
+$table-background-color-dark: #1a1c23 !default;
 
 // Color of the table thead
 $table-thead-color: #ededed !default;
-$table-thead-color-dark: #2d1154 !default;
+$table-thead-color-dark: #1e2028 !default;
 
 // Color of the blockquote
 $blockquote-color: #6bd6fd !default;
-$blockquote-color-dark: #59c5ec !default;
+$blockquote-color-dark: #1e2028 !default;
 
 // Color of the parameter
 $skill-color: #282828 !default;
@@ -113,7 +113,7 @@ $level-color-dark: #00875e !default;
 // ========== Pagination ========== //
 // Color of the link in pagination
 $pagination-link-color: #2d96bd !default;
-$pagination-link-color-dark: #58dbc6 !default;
+$pagination-link-color-dark: #1e2028 !default;
 
 // Color of the hover link in pagination
 $pagination-link-hover-color: #000 !default;
@@ -127,10 +127,10 @@ $code-color-dark: #ffb750 !default;
 
 // Color of the code background
 $code-background-color: #f5f5f5 !default;
-$code-background-color-dark: #2d1154 !default;
+$code-background-color-dark: #1e2028 !default;
 
 $code-info-color: #9c9c9c !default;
-$code-info-color-dark: #e0b0ff !default;
+$code-info-color-dark: #1ecbe1 !default;
 
 // Font size of the code
 $code-font-size: 0.875rem !default;
