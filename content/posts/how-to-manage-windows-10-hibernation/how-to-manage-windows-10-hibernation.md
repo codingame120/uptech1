@@ -57,7 +57,6 @@ Let's have a look at how to enable or disable hibernation. lower the size of the
 <br>
 
 ## Conclusion
-
 <br>
 
 It was a brief and succinct demonstration of how to control hibernation to optimize Windows 10 and make the most of this benefit while also balancing limited space and desired fast boot.
