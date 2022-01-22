@@ -50,9 +50,9 @@ Let's have a look at how to enable or disable hibernation. lower the size of the
 
 * To enable hibernation, type: `powercfg/h on`
 
-* If you want to use Windows Fast Startup but not hibernate, change the hibernation file type to reduced:`powercfg/h/type` reduced, which takes up less disk space than a regular hibernation file. To restore the hibernation file, change the /type parameter to full: `powercfg/h/type full`
+* If you want to use Windows Fast Startup but not hibernate, change the hibernation file type to reduced:`powercfg/h/type reduced`, which takes up less disk space than a regular hibernation file. To restore the hibernation file, change the /type parameter to full: `powercfg/h/type full`
 
-* Turn on hibernation and specify the size of the hibernation file as a percentage of installed RAM using this command: `powercfg/h/size nn` Enter a number between 40 and 100 in place of NN. Avoid making this amount smaller, because you will be unable to use the hibernate file.
+* Turn on hibernation and specify the size of the hibernation file as a percentage of installed RAM using this command: `powercfg/h/size nn` Enter a number between 40 and 100 in place of nn. Avoid making this amount smaller, because you will be unable to use the hibernate file.
 
 
 <br>
